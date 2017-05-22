@@ -10,7 +10,7 @@ KAFKA_TOPIC = 'clitopic'
 BROKERS = 'kafka.ostrovok.cc:9092'
 
 MONGO_HOSTS = ['kafka.ostrovok.cc:27017']
-DB_NAME = 'climacell'
+DB_NAME = 'climatcell'
 COLLECTION = 'kafka'
 
 
