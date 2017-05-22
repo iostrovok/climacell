@@ -10,8 +10,8 @@ import hashlib
 
 KAFKA_TOPIC = 'clitopic'
 
-SCRIPT_FILE = '/home/ubuntu/climacell/scripts/check_if_great.py'
-WORDS_FILE = '/home/ubuntu/climacell/words.txt'
+SCRIPT_FILE = '/home/ubuntu/climatcell/scripts/check_if_great.py'
+WORDS_FILE = '/home/ubuntu/climatcell/words.txt'
 
 producer = kafka.KafkaProducer(bootstrap_servers='localhost:9092')
 
