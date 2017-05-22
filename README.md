@@ -1,7 +1,7 @@
 # climacell
 
-> git clone https://github.com/iostrovok/climacell.git
-> cd ./climacell/
+> git clone https://github.com/iostrovok/climatcell.git
+> cd ./climatcell/
 # First node
 > sudo ./scripts/install.py -i -s --kafka=1 
 # Second node
