@@ -8,7 +8,7 @@ import sys
 import kafka
 from datetime import datetime
 
-DB_NAME = 'climacell'
+DB_NAME = 'climatcell'
 KAFKA_SERVER = 'localhost:9092'
 KAFKA_TOPIC = 'clitopic'
 
